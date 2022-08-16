@@ -23,7 +23,7 @@
                 </ion-col>
             </ion-row>
         </ion-grid>
-        <!-- </div> -->
+        <!-- </div> s -->
         <ion-label>Route [{{useRoute().path}}]</ion-label>
         <ion-label>{{todosState}}</ion-label>
         </section>
