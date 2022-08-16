@@ -1,5 +1,8 @@
 # ionic-vue-ts
 
+## Project Description
+This project aims to help programmer started a Ionic 6 Vue 3 project.
+
 ## Serve on local
 ```bash
 ionic serve
